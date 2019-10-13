@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{  
+	
+	margin: 0 auto;
+}
+
+
+.container
+{
+	width: 2000px;
+	height: 40PX;
+	margin: 0 auto;
+}
+.nav
+{
+	
+	width: 2000px;
+	height: 70px;
+	background-color: #000000;
+}
+.img
+{
+	width: 1000px;
+	height: 250px;
+}
+.container
+{
+	text-align: left;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%,50%);
+	
+}
+body
+{
+	color: #EDE8E9;
+}
+.container span
+{
+	color: black;
+	text-transform: uppercase;
+}
+.text1
+{
+	color: black;
+	font-size: 30px;
+	font-weight: 800;
+	letter-spacing: 7px;
+	margin-bottom: 20px;
+	position: relative;
+	animation: text 1s 1;
+	width: 30%;
+	padding-right: 1500px;
+	
+	
+}
+.text2
+{
+	font-size: 20px;
+	color: black;
+	padding-top: 30px;
+	
+}
+
+@keyframes text
+{
+	
+0%
+	{ color: black;
+	  margin-bottom: -40%;
+	}
+	30%
+	{
+		letter-spacing: 25px;
+		margin-bottom: -40px;
+		
+	}
+	85%
+	{
+		letter-spacing: 25px;
+		margin-bottom: -40px;
+		
+		
+	}
+}
+.image1
+
+{
+	width: 800px;
+	height: 300px;
+    float: right;
+}
+.img1textbox ul 
+{
+	margin-left: -600px;
+	font-size: 20px;
+	color:#17202A;	
+	float: left;
+	line-height: 27px;
+	font-weight: 400px;
+}
+.p
+{
+
+	width: 900px;
+	height: 300px;
+	font-size: 25px;
+	font-weight: 900px;
+	line-height: 1;
+	color:black;
+	float: left;
+	
+}
+.img1
+{
+	width: 1000px;
+	height: 1000px;
+	background-color: white;
+}
+.img1textbox
+{
+	width: 1000px;
+	height: 300px;
+	background-color: white;
+}
+

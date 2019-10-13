@@ -1,0 +1,60 @@
+https://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmAhttps://youtu.be/I4ziuJ50CmA@charset "utf-8";
+/* CSS Document */
+*{margin: 0 auto}
+.container
+{
+	width: 1024px;
+	height: 512PX;
+}
+.nav
+{
+	
+	width: 100%;
+	height: 40px;
+	background-color: #000000;
+}
+.p
+{
+	padding: 60px 60px 60px 10px;
+	font-size: 20px;
+	font-weight: 900px;
+	line-height: 1;
+	color: dimgray;
+	
+}
+.p2
+{
+	padding: 2px 2px 20px 2px;
+	font-size: 20px;
+	font-weight: 900px;
+	line-height: 1;
+	color: dimgray;
+}
+.text1
+{
+	color: #1B6206;
+	font-size: 20px;
+	font-weight: 200;
+	letter-spacing: 2px;
+	float: left;
+}
+.image
+{
+	
+	width: 512px;
+	height: 10px;
+}
+
+
+.boxex6
+{
+	
+	width: 250px;
+	height: 180px;
+	color: yellow;
+}
+
+
+
+
+
